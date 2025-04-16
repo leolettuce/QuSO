@@ -1,0 +1,1 @@
+Open `comparison_pl_cq.ipynb`to see the comparison between our pennylane and classiq implementation.

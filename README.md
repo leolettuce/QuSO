@@ -9,9 +9,11 @@ Check out the Classiq code here: http://short.classiq.io/cooling_systems_optimiz
 If you are interested in the differences or the particular strengths of both quantum software frameworks, check out the notebook in the "comparison" folder.
 
 ## Folder Structure
-- experiments: contains the numerical experiments presented in the paper.
 - comparison: contains a brief comparison between PennyLane and Classiq.
+- experiments: contains the numerical experiments presented in the paper.
+- OpenModelica: contains the scripts to validate our linear system with OpenModelica simulations.
 - full_algorithm: contains the implementation of the entire QuSO algorithm.
+- tutorial_notebooks: contains the jupyter notebooks used in the tutorial at QCE24 TUT24 (https://qce.quantum.ieee.org/2024/program/tutorials-abstracts/)
   
 ## Requirements
 - numpy
