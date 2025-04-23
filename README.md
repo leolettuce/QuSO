@@ -1,6 +1,6 @@
 # QuSO - Quantum Simulation-Based Optimization of a Cooling System 
 This repository contains the implementation of the Quantum Simulation-Based Optimization (QuSO) algorithm for finding the optimal cooling system.
-Details about the particular problem and the implementation can be found in the paper: [Insert arXiv link]
+Details about the particular problem and the implementation can be found in the paper: https://arxiv.org/abs/2504.15460
 
 ## More Information
 We have implemented QuSO in PennyLane and Classiq. This repository only contains the PennyLane code.
